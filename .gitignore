@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Data / generated artifacts
+data/models/
+generated_reports/
+
+# Project-specific folders
+Mappings/
+Model/
+Report/
+Screenshots/
+
+# Notebooks
+notebooks/semantic_search_comparison.ipynb
+
+# Project utility files
+agent_chatbot.py
+AIML_Notebooks.md
+AIML_Notebooks_old.md
+AIML_Project_Code.md
+AIML_Project_Code_old.md
+crp.ipynb
+extract_notebooks.py
+extract_to_md.py
+
+structure.txt
+
